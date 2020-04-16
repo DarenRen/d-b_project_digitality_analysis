@@ -13,10 +13,12 @@ The repo are consisted of five code notbooks:
 
 Web scraping code: "scraping_NYSE", "scraping_home_website" and "scraping_wikipedia"
 
-Data processing code: "fake_review_detection"
+Data processing code: "data_processing"
 
-Visualization and sentiment analysis code: "fake_review_visulization"
+Modeling and analysis code: "modeling_and_analysis"
 
 ## Thank all of you for using or checking these codes
 
-This is my first time to put up the codes of project. If there are any errors or problems, please kindly tell me.
+This is a group project so I only list the work I was responsible for. 
+
+If there are any errors or problems, please kindly tell me.
