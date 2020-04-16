@@ -3,7 +3,7 @@
 The main object of this project is to measure how company's social media and profile information influence its profitability.
 
 We scraped public companies information from NYSE, YAHOO! Finance and their home websites, also scraped social media features from Twitter, YouTube and Wikipedia to collect the data we need. 
-Because not every company had all social media accounts, we conducted feature engineering to establish derivative features, handle missing and imbalanced data, convert some features and response to categorical variables and did WOE transformation.
+Because not every company had all social media accounts, we conducted feature engineering to establish derivative features, handle missing and imbalanced data, convert some features and response.
 Then we established logistic regression model and decision tree to see how social media and company profile information influence its financial performance. 
 Then we used the prediction results to visualize and conduct statistical analysis to draw conclusions of differences and similarities from groups with highest and lowest event rate.
 
