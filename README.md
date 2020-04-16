@@ -1,6 +1,6 @@
 # Public Companies Profitability  Analysis
 
-#### The main object of this project is to measure how company's social media and profile information influence its profitability.
+The main object of this project is to measure how company's social media and profile information influence its profitability.
 
 We scraped public companies information from NYSE, YAHOO! Finance and their home websites, also scraped social media features from Twitter, YouTube and Wikipedia to collect the data we need. 
 Because not every company had all social media accounts, we conducted feature engineering to establish derivative features, handle missing and imbalanced data, convert some features and response to categorical variables and did WOE transformation.
