@@ -9,11 +9,11 @@ Then we used the prediction results to visualize and conduct statistical analysi
 
 ## Codes
 
-The repo are consisted of three code notbooks:
+The repo are consisted of five code notbooks:
 
-Web scraping code: "data_scraping"
+Web scraping code: "scraping_NYSE", "scraping_home_website" and "scraping_wikipedia"
 
-Machine learning code: "fake_review_detection"
+Data processing code: "fake_review_detection"
 
 Visualization and sentiment analysis code: "fake_review_visulization"
 
